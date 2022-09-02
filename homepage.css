@@ -1,0 +1,93 @@
+body{
+    background-image:url(https://images.unsplash.com/photo-1513104890138-7c749659a591?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80)
+     ;
+    background-size: cover;
+  }                                                                                                                                                                                                                                     
+  
+  
+  nav ul{
+      list-style-type:none;
+      border-bottom: 3px solid currentcolor;
+      border-bottom-color: white;
+    }
+    
+    nav a{
+      color: black;
+      text-decoration:none;
+    }
+    
+    footer p{
+      margin: 0px 0px 0px 0px;
+    }
+    nav li{
+      display:inline;
+      font-size:30px;
+      padding:20px;
+    }
+    
+    nav{
+      float: top;
+    }
+    
+    .center{
+      display: block;
+    }
+    
+    header {
+      width: 100%;
+      max-height: 50px;
+      text-align: right;
+    }
+    
+    header p {
+      font-weight: bold;
+      font-size: 22px;
+      float: left;
+      margin-top: 5px;
+      margin-left: 10px;
+    }
+  .homeHero{
+       position:relative;
+      text-align:center;
+      color:black;
+    }
+    .homeCentered{
+      position:absolute;
+      top: 50%;
+      bottom: 50%;
+      transform: translate(-50%, -50%);
+      left: 50%;
+      font-weight: bold;
+      font-size: 80px;
+    }
+    /*^ Hero with text ^*/
+    main p{
+      text-align: left;
+      font-size: 20px;
+      color: white;
+    }
+    
+    main h3{
+      text-align: center;
+      font-size: 21px;
+      color: white;
+    }
+    
+    body{
+      background-color:#cce6ff;
+    }
+    
+    main h4{
+      text-align:left;
+      color: white;
+    }
+    
+    
+  .socialmedia {
+  width: 50px;
+  }
+  
+  .info{
+  font-size: 35px; 
+  color: black;
+  }

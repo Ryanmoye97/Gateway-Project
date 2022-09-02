@@ -1,0 +1,160 @@
+body{
+    background-image:url(https://images.unsplash.com/photo-1513104890138-7c749659a591?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80)
+     ;
+    background-size: cover;
+  }
+  
+  
+  
+   nav ul{
+  list-style-type:none;
+  border-top: top 7px black;
+  border-bottom-color: white;
+  }
+  
+  nav a{
+  color:black;
+  text-decoration-color: black;
+  }
+  
+  nav li{
+  display:inline;
+  font: size 45px;
+  padding: 30px;
+  }
+  
+  nav{
+  float: top;
+  }
+  
+  header{
+  width: 100%;
+  max-height: 50px;
+  text-align: right;
+  }
+  
+  header p{
+  font-weight: bold;
+  font-size: 40px;
+  float: middle;
+  margin-top: 10px;
+  margin-left: 10px;
+  }
+  nav ul{
+    list-style-type:none;
+    border-bottom: 3px solid currentcolor;
+    border-bottom-color: white;
+  }
+  
+  nav a{
+    color: black;
+    text-decoration:none;
+  }
+  
+  footer p{
+    margin: 0px 0px 0px 0px;
+  }
+  nav li{
+    display:inline;
+    font-size:30px;
+    padding:20px;
+  }
+  
+  nav{
+    float: top;
+  }
+  
+  .center{
+    display: block;
+  }
+  
+  header {
+    width: 100%;
+    max-height: 50px;
+    text-align: right;
+  }
+  
+  header p {
+    font-weight: bold;
+    font-size: 22px;
+    float: left;
+    margin-top: 5px;
+    margin-left: 10px;
+  }
+  
+  .menu{
+  position:relative;
+  text-align:center;
+  color: black;
+  }
+  
+  .centered{
+  position:relative;
+  top: 45%;
+  bottom: 45%;
+  transform: translate(-50%, -50%);
+  left: 50%;
+  font-weight: bold;
+  font-size: 70px;
+  }
+  
+  main p{
+  text-align: left;
+  font-size: 40px;
+  }
+  
+  
+  body{
+  background-color: lightblue;
+  }
+  
+  
+  .box{
+  display: flex;
+  flex-direction: row;
+  border:5px red;
+  
+  
+  
+  }
+  
+  .row {
+  display: flex;
+  }
+  
+  
+  .column {
+  flex: 33.33%;
+  padding: 15px;
+  margin: 30px 22px 90px 0px;
+  text-align: center;
+  }
+  
+  
+  footer p{
+  text-align: center;
+  }
+  
+  .center{
+  display:block;
+  width:1000px;
+  height: 675px;
+  margin-left: auto;
+  margin-right: auto;
+  }
+  
+  .socialmedia{
+      width: 20px;
+    }
+    
+  .pizza{
+  width: 100px;
+  }
+  
+  .socialmedia {
+    width: 50px;
+    }
+  
+  .items { 
+    font-size: 35px;
+  }

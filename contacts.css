@@ -1,0 +1,148 @@
+body{
+    background-image:url(https://images.unsplash.com/photo-1513104890138-7c749659a591?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80)
+     ;
+    background-size: cover;
+  }
+  
+   nav ul{
+      list-style: none;
+      border-top: 3px solid currentColor;
+      border-top: white;
+      }
+  nav a{
+   color: black;   
+   text-decoration: none;
+  }
+  nav li{
+  display: inline;
+  font: size 50px;
+  padding: 30px;
+  }
+  
+  nav{
+      float: top;
+    }
+    
+    .center{
+      display: block;
+    }
+    
+    header {
+      width:  100px;
+      max-height: 30px;
+      text-align: center;
+    }
+    
+    header p {
+      font-weight: bold;
+      font-size: 22px;
+      float: left;
+      margin-top: 5px;
+      margin-left: 10px;
+    }
+    nav ul{
+      list-style-type:none;
+      border-bottom: 3px solid;
+      border-bottom-color: white;
+    }
+    
+    nav a{
+      color: black;
+      text-decoration:none;
+    }
+    
+    nav li{
+      display:inline;
+      font-size:30px;
+      padding:20px;
+    }
+    
+    nav{
+      float: top;
+    }
+    
+    .center{
+      display: block;
+    }
+    
+    header {
+      width: 100%;
+      max-height: 50px;
+      text-align: right;
+    }
+    
+    header p {
+      font-weight: bold;
+      font-size: 22px;
+      float: left;
+      margin-top: 5px;
+      margin-left: 10px;
+    }
+    .contactHero{
+       position:relative;
+      text-align:center;
+      color:white;
+      height:450px;
+      width:200px;
+    }
+    
+    .contactCentered{
+      position:absolute;
+      top: 50%;
+      bottom: 50%;
+      transform: translate(-50%, -50%);
+      left: 50%;
+      font-weight: bold;
+      font-size: 80px;
+      color:white;
+    }
+    
+    main p{
+      text-align: left;
+      font-size: 20px;
+    }
+    
+    main h3{
+      text-align: center;
+      font-size: 21px;
+    }
+    
+    body{
+      background-color:#cce6ff;
+    }
+    
+    footer p{
+      text-align:center;
+    }
+    
+    input[type=text], select, textarea {
+      width: 50%; 
+      padding: 15px 20px 0px 0px; 
+      border: 2px solid currentcolor; 
+      border-radius: 4px; 
+      box-sizing: border-box; 
+      margin-top: 20px; 
+      margin-bottom: 16px; 
+      resize: vertical;
+      text-align:left;
+      display:inline-block;
+    }
+    
+    input[type=submit] {
+      background-color: blue;
+      color: white;
+      padding: 15px 20px;
+      border: none;
+      border-radius: 30px;
+    
+    }
+    .button{
+      text-align: center;
+    }
+    .container{
+      text-align: center;
+    }
+  
+    .socialmedia {
+      width: 25px;
+      }
